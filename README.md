@@ -6,12 +6,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="20" width="20"/> Flutter</li>
   <li><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="20" width="20"/> TypeScript</li>
   <li><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="20" width="20"/> Python</li>
-  <li><img src="https://img.icons8.com/color/48/000000/livekit.png" alt="LiveKit" height="20" width="20"/> LiveKit</li>
+  <li><img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" alt="LiveKit" height="20" width="20"/> LiveKit</li>
   <li><img src="https://img.icons8.com/color/48/000000/supabase.png" alt="Supabase" height="20" width="20"/> Supabase</li>
 </ul>
 
