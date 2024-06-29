@@ -2,7 +2,7 @@
 <h3 align="left">Software Developer</h3>
 
 <p align="justify">
-  I am a passionate and experienced Software Developer with a strong background in both front-end and back-end technologies. I have a proven track record of delivering high-quality web applications and services. My expertise includes working with various programming languages, frameworks, and tools to create efficient and scalable solutions. I am always eager to learn new technologies and take on challenging projects.
+  I am a dedicated Software Developer with experience in both front-end and back-end technologies. I enjoy working on web applications and services, and I strive to deliver high-quality solutions. My skills include working with various programming languages, frameworks, and tools. I am always eager to learn new technologies and take on new challenges.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
