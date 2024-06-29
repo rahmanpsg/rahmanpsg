@@ -17,6 +17,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="justify">
+  I am always happy to connect with everyone.
+</p>
 <p align="left">
 <a href="https://www.upwork.com/freelancers/~0146d020d1f7248e83" target="blank"><img align="center" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="upwork" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahmanpsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmanpsg" height="30" width="40" /></a>
