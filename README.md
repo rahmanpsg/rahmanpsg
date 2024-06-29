@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Abd. Rahman</h1>
-<h3 align="center">Freelance Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  I am a passionate and experienced Full Stack Developer with a strong background in both front-end and back-end technologies. I have a proven track record of delivering high-quality web applications and services. My expertise includes working with various programming languages, frameworks, and tools to create efficient and scalable solutions. I am always eager to learn new technologies and take on challenging projects.
+  I am a passionate and experienced Software Developer with a strong background in both front-end and back-end technologies. I have a proven track record of delivering high-quality web applications and services. My expertise includes working with various programming languages, frameworks, and tools to create efficient and scalable solutions. I am always eager to learn new technologies and take on challenging projects.
 </p>
 
 
