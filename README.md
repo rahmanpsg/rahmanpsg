@@ -11,6 +11,7 @@
   <li>TypeScript</li>
   <li>Python</li>
   <li>LiveKit</li>
+  <li>Supabase</li>
 </ul>
 
 
