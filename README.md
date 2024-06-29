@@ -10,6 +10,7 @@
   <li>Flutter</li>
   <li>TypeScript</li>
   <li>Python</li>
+  <li>LiveKit</li>
 </ul>
 
 
