@@ -1,5 +1,4 @@
 <h1 align="left">Hello, I'm Abd. Rahman</h1>
-<h3 align="left">Software Developer</h3>
 
 <p align="justify">
   I am a dedicated Software Developer with extensive experience in Flutter and a solid background in both front-end and back-end technologies. I enjoy working on mobile apps and web applications, and I strive to deliver high-quality solutions. My skills include working with various programming languages, frameworks, and tools. I am always eager to learn new technologies and take on new challenges.
