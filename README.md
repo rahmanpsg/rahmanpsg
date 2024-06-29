@@ -12,6 +12,7 @@
   <li><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="20" width="20"/> Python</li>
   <li><img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" alt="LiveKit" height="20" width="20"/> LiveKit</li>
   <li><img src="https://img.icons8.com/color/48/000000/supabase.png" alt="Supabase" height="20" width="20"/> Supabase</li>
+  <li><img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" height="20" width="20"/> Google Cloud</li>
 </ul>
 
 
