@@ -6,6 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="20" width="20"/> Flutter</li>
   <li><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="20" width="20"/> TypeScript</li>
